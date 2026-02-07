@@ -1,4 +1,4 @@
-👋 Hi, I’m Sadi Güzel
+### 👋 Hi, I’m Sadi,
 
 🎓 AI/ML Engineer with 6+ years building production‑ready ML systems – deep learning, NLP, CV, GenAI & MLOps
 
@@ -8,7 +8,7 @@
 
 ---
 
-🧠 What I’m working on
+### 🧠 What I’m working on
 
 End‑to‑end ML pipelines & API services
 GenAI agents & RAG architectures for intelligent assistants
@@ -16,7 +16,7 @@ MLOps workflows (Docker, MLflow) and production deployments
 
 ---
 
-🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 📚 Languages: Python, JavaScript, C#, SQL
 
