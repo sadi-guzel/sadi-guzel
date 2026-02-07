@@ -20,7 +20,7 @@ MLOps workflows (Docker, MLflow) and production deployments
 
 📚 Languages: Python, JavaScript, C#, SQL
 
-🔧 Frameworks/Libraries: FastAPI, Vue.js, React, PyTorch, TensorFlow, Hugging Face, LangChain
+🔧 Frameworks/Libraries: FastAPI, Vue.js, PyTorch, TensorFlow, Hugging Face, LangChain, Google ADK
 
 💾 Databases: MongoDB, PostgreSQL, Qdrant, FAISS
 
